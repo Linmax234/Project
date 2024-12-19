@@ -1,4 +1,4 @@
-/* Шапка */
+/* Шапка    */
 header {
     width: 1100px;
     height: 293px;
@@ -7,7 +7,7 @@ header {
     align-items: center;
 }
 
-/* Меню шапки */
+/*  Меню шапки */
 .header_links-list{
     width: 391px;
     display: flex;
